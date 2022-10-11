@@ -1,4 +1,3 @@
 # myrepo
-Testing 1 done!
 
-My name is Cody Jenson, I am a mathematics student at BYU-Idaho. I am married and have a dog and a kiddo on the way.
+My name is Cody Jenson. I am a graduate in applied mathematics from BYU-Idaho. The following projects are personal demonstrations of my data science abilities. I am currently open and interested in job offers, and always interested in hearing about contract or freelance work opportunities.
